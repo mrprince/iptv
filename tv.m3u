@@ -212,15 +212,15 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/TVBJADE.png" group-title="港澳台",TVB Jade
-http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+http://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",TVB J2
-http://223.17.122.230:9981/stream/channelid/1454790305?profile=pass
+https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
-http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+https://cdn.hklive.tv/xxxx/84b/index.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
-http://223.17.122.230:9981/stream/channelid/804222044?profile=pass
+https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="dba74407881d12d0fcbca37df950dc03" tvg-name="香港國際財經台" tvg-logo="https://epg.112114.xyz/logo/HKIBC.png" group-title="🇭🇰🇲🇴🇹🇼| Kênh Hong Kong-Macao-Đài Loan",HKIBC
-http://lan138.3322.org:29991/stream/channelid/942604602?ticket=32deb1e7fad679ae8b82f8d5cc897a7392bc921a&profile=pass
+https://cdn.hklive.tv/xxxx/76/index.m3u8
 #EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="其他",MTV音乐
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="其他",CNN
