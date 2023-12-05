@@ -237,24 +237,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="北京",北京影视
-https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
-#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="北京",北京文艺BTV-2
-https://live.goodiptv.club/api/ghyx.php?id=BTVwenyiHD_6000
-#EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="北京",北京科教BTV-3 标清
-https://live.goodiptv.club/api/ghyx.php?id=BTV3HD_2000
-#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="北京",北京影视BTV-4
-https://live.goodiptv.club/api/ghyx.php?id=BTV4HD_6000
-#EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="北京",北京财经BTV-5
-https://live.goodiptv.club/api/ghyx.php?id=BTVCaiJingHD_6000
-#EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="北京",北京体育休闲BTV-6
-https://live.goodiptv.club/api/ghyx.php?id=BTVjishiHD_6000
-#EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="北京",北京生活BTV-7
-https://live.goodiptv.club/api/ghyx.php?id=BTVShengHuoHD_6000
-#EXTINF:-1,tvg-id="北京青年" tvg-name="北京青年" tvg-logo="https://epg.112114.xyz/logo/北京青年.png" group-title="北京",北京青年BTV-8
-https://live.goodiptv.club/api/ghyx.php?id=BTVQingNianHD_6000
-#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻BTV-9
-https://live.goodiptv.club/api/ghyx.php?id=BTV9HD_6000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/北京卡酷BTV10.png" group-title="北京",北京卡酷BTV-10 标清
 https://live.goodiptv.club/api/ghyx.php?id=BTV10HD_2000
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="湖南",湖南快乐垂钓
