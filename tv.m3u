@@ -331,3 +331,7 @@ http://r.jdshipin.com/Nr5jq
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="其他",CNN
 http://213.254.12.7/cnn/mono.m3u8
+#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://epg.112114.xyz/logo/KBSWORLD.png" group-title="其他",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="港澳台",NHK world Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
