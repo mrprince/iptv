@@ -35,8 +35,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
-http://ainm.cc/a/play/php/cctv4k.php?id=4khd
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
