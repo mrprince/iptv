@@ -215,6 +215,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实人文
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实8K
+http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="湖南",湖南快乐垂钓
@@ -276,8 +278,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1,tvg-id="NewTV精品萌宠" tvg-name="NewTV精品萌宠" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品萌宠.png" group-title="NEWTV",NewTV精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="其他",纯享4K
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
 http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
