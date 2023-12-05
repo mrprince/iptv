@@ -185,7 +185,7 @@ http://php.jdshipin.com:8880/iptv.php?id=hndsj
 http://php.jdshipin.com:8880/iptv.php?id=hnyl
 #EXTINF:-1,tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://epg.112114.xyz/logo/湖南国际.png" group-title="湖南",湖南国际
 http://php.jdshipin.com:8880/iptv.php?id=hngj
-#EXTINF:-1,tvg-id="湖南教育电视台" tvg-name="湖南教育电视台" tvg-logo="https://epg.112114.xyz/logo/湖南教育电视台.png" group-title="湖南",湖南教育
+#EXTINF:-1,tvg-id="湖南教育" tvg-name="湖南教育" tvg-logo="https://epg.112114.xyz/logo/湖南教育.png" group-title="湖南",湖南教育
 http://php.jdshipin.com:8880/iptv.php?id=hnjy
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="其他",台球
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226348/index.m3u8
