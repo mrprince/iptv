@@ -333,7 +333,5 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.
 http://213.254.12.7/cnn/mono.m3u8
 #EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://epg.112114.xyz/logo/KBSWORLD.png" group-title="其他",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
-#EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="其他",NHK World
+#EXTINF:-1,tvg-id="NHKWorld " tvg-name="NHKWorld " tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="其他",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1,tvg-id="VOA" tvg-name="VOA" tvg-logo="https://epg.112114.xyz/logo/VOA.png" group-title="其他",VOA
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
