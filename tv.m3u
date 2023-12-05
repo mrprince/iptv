@@ -237,22 +237,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-#EXTINF:-1,tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://epg.112114.xyz/logo/重庆新闻.png" group-title="重庆",重庆新闻高清
-https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
-#EXTINF:-1,tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://epg.112114.xyz/logo/重庆影视.png" group-title="重庆",重庆影视高清
-https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
-#EXTINF:-1,tvg-id="重庆社会与法高清" tvg-name="重庆社会与法高清" tvg-logo="https://epg.112114.xyz/logo/重庆社会与法.png" group-title="重庆",重庆社会与法高清
-https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
-#EXTINF:-1,tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.xyz/logo/重庆时尚生活.png" group-title="重庆",重庆时尚生活高清
-https://live.goodiptv.club/api/cqyx.php?id=cqssgwHD
-#EXTINF:-1,tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://epg.112114.xyz/logo/重庆文体娱乐.png" group-title="重庆",重庆文体娱乐高清
-https://live.goodiptv.club/api/cqyx.php?id=cqwtylHD
-#EXTINF:-1,tvg-id="重庆新农村高清" tvg-name="重庆新农村高清" tvg-logo="https://epg.112114.xyz/logo/重庆新农村.png" group-title="重庆",重庆新农村高清
-https://live.goodiptv.club/api/cqyx.php?id=cqggncHD
-#EXTINF:-1,tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://epg.112114.xyz/logo/重庆少儿.png" group-title="重庆",重庆少儿高清
-https://live.goodiptv.club/api/cqyx.php?id=cqseHD
-#EXTINF:-1,tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://epg.112114.xyz/logo/重庆科教.png" group-title="重庆",重庆科教高清
-https://live.goodiptv.club/api/cqyx.php?id=CQTVkejiaoHD
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="北京",北京影视
 https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="北京",北京文艺BTV-2
