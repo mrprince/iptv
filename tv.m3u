@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://192.168.31.250:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.31.250:34400/xmltv/xteve.xml"
+#EXTM3U
 #EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name="CCTV1" tvg-id="1000" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://192.168.31.250:34400/stream/aab15c814cf2c8c3570f45ce40a811dc
 #EXTINF:0 channelID="x-ID.1" tvg-chno="1001" tvg-name="CCTV2" tvg-id="1001" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
