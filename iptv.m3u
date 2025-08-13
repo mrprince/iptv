@@ -151,7 +151,7 @@ http://192.168.31.254:8888/udp/228.1.1.198:8000
 http://192.168.31.254:8888/udp/228.1.1.199:8000
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://epg.112114.xyz/logo/北京纪实科教.png",北京纪实科教
 http://192.168.31.254:8888/udp/228.1.1.196:8000
-#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/北京卡酷少儿.png",北京卡酷少儿
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png",卡酷少儿
 http://192.168.31.254:8888/udp/228.1.1.195:8000
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png",北京体育休闲
 http://192.168.31.254:8888/udp/228.1.1.117:8000
