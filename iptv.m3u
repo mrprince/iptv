@@ -53,9 +53,9 @@ http://192.168.31.254:8888/udp/228.1.1.208:4220
 http://192.168.31.254:8888/udp/228.1.1.21:8064
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
 http://192.168.31.254:8888/udp/228.1.1.115:8000
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-id="北京卫视4K" tvg-logo="https://epg.112114.xyz/logo/北京卫视4K.png",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-id="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视4K.png",北京卫视4K
 http://192.168.31.254:8888/udp/228.1.1.234:8002
-#EXTINF:-1 tvg-name="北京卫视HDR" tvg-id="北京卫视HDR" tvg-logo="https://epg.112114.xyz/logo/北京卫视HDR.png",北京卫视HDR
+#EXTINF:-1 tvg-name="北京卫视HDR" tvg-id="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视HDR.png",北京卫视HDR
 http://192.168.31.254:8888/udp/228.1.1.235:8002
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png",兵团卫视
 http://192.168.31.254:8888/udp/228.1.1.177:4120
@@ -133,7 +133,7 @@ http://192.168.31.254:8888/udp/228.1.1.97:4120
 http://192.168.31.254:8888/udp/228.1.1.98:4120
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png",CETV4
 http://192.168.31.254:8888/udp/228.1.1.99:4120
-#EXTINF:-1 tvg-name="CGTN记录" tvg-id="CGTN记录" tvg-logo="https://epg.112114.xyz/logo/CGTN记录.png",CGTN记录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png",CGTN纪录
 http://192.168.31.254:8888/udp/228.1.1.205:4220
 #EXTINF:-1 tvg-name="北京新闻" tvg-id="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png",北京新闻
 http://192.168.31.254:8888/udp/228.1.1.189:8000
