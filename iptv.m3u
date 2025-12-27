@@ -28,7 +28,7 @@ http://192.168.31.254:8888/udp/228.1.1.29:8116
 #EXTINF:-1 tvg-chno="14" tvg-id="12" tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视",CCTV11
 http://192.168.31.254:8888/udp/228.1.1.182:8120
 #EXTINF:-1 tvg-chno="15" tvg-id="13" tvg-name="CCTV12" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" group-title="央视",CCTV12
-http://192.168.31.254:8888/udp/228.1.1.30:8124
+http://192.168.31.254:8888/rtp/228.1.1.183:8136
 #EXTINF:-1 tvg-chno="16" tvg-id="14" tvg-name="CCTV13" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="央视",CCTV13
 http://192.168.31.254:8888/udp/228.1.1.212:8128
 #EXTINF:-1 tvg-chno="17" tvg-id="15" tvg-name="CCTV14" tvg-logo="https://tb.zbds.top/logo/CCTV14.png" group-title="央视",CCTV14
