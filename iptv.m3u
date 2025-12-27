@@ -7,9 +7,9 @@ http://192.168.31.254:8888/udp/228.1.1.24:8084
 http://192.168.31.254:8888/udp/228.1.1.191:8002
 #EXTINF:-1 tvg-chno="4" tvg-id="4" tvg-name="CCTV4" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视",CCTV4
 http://192.168.31.254:8888/udp/228.1.1.25:8092
-#EXTINF:-1 tvg-chno="5" tvg-id="19" tvg-name="CCTV4欧洲" tvg-logo="https://tb.zbds.top/logo/CCTV4欧洲" group-title="央视",CCTV4欧洲
+#EXTINF:-1 tvg-chno="5" tvg-id="19" tvg-name="CCTV4欧洲" tvg-logo="https://tb.zbds.top/logo/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
 http://192.168.31.254:8888/udp/228.1.1.213:4220
-#EXTINF:-1 tvg-chno="6" tvg-id="20" tvg-name="CCTV4美洲" tvg-logo="https://tb.zbds.top/logo/CCTV4美洲" group-title="央视",CCTV4美洲
+#EXTINF:-1 tvg-chno="6" tvg-id="20" tvg-name="CCTV4美洲" tvg-logo="https://tb.zbds.top/logo/CCTV4美洲.png" group-title="央视",CCTV4美洲
 http://192.168.31.254:8888/udp/228.1.1.203:4220
 #EXTINF:-1 tvg-chno="7" tvg-id="5" tvg-name="CCTV5" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视",CCTV5
 http://192.168.31.254:8888/udp/228.1.1.192:8002
@@ -135,7 +135,7 @@ http://192.168.31.254:8888/udp/228.1.1.99:4120
 http://192.168.31.254:8888/udp/228.1.1.195:8000
 #EXTINF:-1 tvg-chno="70" tvg-id="" tvg-name="爱上4K" tvg-logo="https://tb.zbds.top/logo/爱上4K.png" group-title="其他",爱上4K
 http://192.168.31.254:8888/udp/228.1.1.38:2000
-#EXTINF:-1 tvg-chno="71" tvg-id="" tvg-name="4K综艺" tvg-logo="https://tb.zbds.top/logo/4K综艺.png" group-title="其他",4K超清
+#EXTINF:-1 tvg-chno="71" tvg-id="" tvg-name="4K超清" tvg-logo="https://tb.zbds.top/logo/4K超清.png" group-title="其他",4K超清
 http://192.168.31.254:8888/udp/228.1.1.123:8001
 #EXTINF:-1 tvg-chno="72" tvg-id="" tvg-name="北京淘电影" tvg-logo="https://tb.zbds.top/logo/北京淘电影.png" group-title="其他",淘电影
 http://192.168.31.254:8888/udp/228.1.1.124:8001
