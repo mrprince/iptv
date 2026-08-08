@@ -37,7 +37,7 @@ http://192.168.31.252:8888/udp/228.1.1.31:8132
 http://192.168.31.252:8888/udp/228.1.1.183:8136
 #EXTINF:-1 tvg-chno="19" tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="央视",CCTV16
 http://192.168.31.252:8888/udp/228.1.1.218:8002
-#EXTINF:-1 tvg-chno="20" tvg-id="CCTV16" tvg-name="CCTV16 4K" tvg-logo="https://tb.zbds.top/logo/CCTV164K.png" group-title="央视",CCTV16 4K
+#EXTINF:-1 tvg-chno="20" tvg-id="CCTV16" tvg-name="CCTV16 4K" tvg-logo="https://tb.zbds.top/logo/CCTV164K.png" group-title="4K",CCTV16 4K
 http://192.168.31.252:8888/udp/228.1.1.215:8002
 #EXTINF:-1 tvg-chno="21" tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视",CCTV17
 http://192.168.31.252:8888/udp/228.1.1.181:8144
@@ -57,21 +57,21 @@ http://192.168.31.252:8888/udp/228.1.1.205:4220
 http://192.168.31.252:8888/udp/228.1.1.21:8064
 #EXTINF:-1 tvg-chno="29" tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://tb.zbds.top/logo/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.31.252:8888/udp/228.1.1.234:8002
-#EXTINF:-1 tvg-chno="30" tvg-id="北京卫视" tvg-name="北京卫视 4K" tvg-logo="https://tb.zbds.top/logo/北京卫视4K.png" group-title="卫视",北京卫视 4K
+#EXTINF:-1 tvg-chno="30" tvg-id="北京卫视" tvg-name="北京卫视 4K" tvg-logo="https://tb.zbds.top/logo/北京卫视4K.png" group-title="4K",北京卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.115:8000
 #EXTINF:-1 tvg-chno="31" tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://tb.zbds.top/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://192.168.31.252:8888/udp/228.1.1.210:8160
 #EXTINF:-1 tvg-chno="32" tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://tb.zbds.top/logo/东方卫视.png" group-title="卫视",东方卫视
 http://192.168.31.252:8888/udp/228.1.1.39:8032
-#EXTINF:-1 tvg-chno="33" tvg-id="东方卫视" tvg-name="东方卫视 4K" tvg-logo="https://tb.zbds.top/logo/东方卫视.png" group-title="卫视",东方卫视 4K
+#EXTINF:-1 tvg-chno="33" tvg-id="东方卫视" tvg-name="东方卫视 4K" tvg-logo="https://tb.zbds.top/logo/东方卫视.png" group-title="4K",东方卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.43:3006
 #EXTINF:-1 tvg-chno="34" tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://tb.zbds.top/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://192.168.31.252:8888/udp/228.1.1.61:8188
-#EXTINF:-1 tvg-chno="35" tvg-id="甘肃卫视" tvg-name="甘肃卫视 4K" tvg-logo="https://tb.zbds.top/logo/甘肃卫视.png" group-title="卫视",甘肃卫视 4K
+#EXTINF:-1 tvg-chno="35" tvg-id="甘肃卫视" tvg-name="甘肃卫视 4K" tvg-logo="https://tb.zbds.top/logo/甘肃卫视.png" group-title="4K",甘肃卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.242:8180
 #EXTINF:-1 tvg-chno="36" tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://tb.zbds.top/logo/广东卫视.png" group-title="卫视",广东卫视
 http://192.168.31.252:8888/udp/228.1.1.17:8048
-#EXTINF:-1 tvg-chno="37" tvg-id="广东卫视" tvg-name="广东卫视 4K" tvg-logo="https://tb.zbds.top/logo/广东卫视4K.png" group-title="卫视",广东卫视 4K
+#EXTINF:-1 tvg-chno="37" tvg-id="广东卫视" tvg-name="广东卫视 4K" tvg-logo="https://tb.zbds.top/logo/广东卫视4K.png" group-title="4K",广东卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.241:2000
 #EXTINF:-1 tvg-chno="38" tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://tb.zbds.top/logo/广西卫视.png" group-title="卫视",广西卫视
 http://192.168.31.252:8888/udp/228.1.1.80:8300
@@ -83,7 +83,7 @@ http://192.168.31.252:8888/udp/228.1.1.81:8304
 http://192.168.31.252:8888/udp/228.1.1.187:8072
 #EXTINF:-1 tvg-chno="42" tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://tb.zbds.top/logo/河南卫视.png" group-title="卫视",河南卫视
 http://192.168.31.252:8888/udp/228.1.1.50:8128
-#EXTINF:-1 tvg-chno="43" tvg-id="河南卫视" tvg-name="河南卫视 4K" tvg-logo="https://tb.zbds.top/logo/河南卫视.png" group-title="卫视",河南卫视 4K
+#EXTINF:-1 tvg-chno="43" tvg-id="河南卫视" tvg-name="河南卫视 4K" tvg-logo="https://tb.zbds.top/logo/河南卫视.png" group-title="4K",河南卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.236:8184
 #EXTINF:-1 tvg-chno="44" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://tb.zbds.top/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://192.168.31.252:8888/udp/228.1.1.35:8016
@@ -91,13 +91,13 @@ http://192.168.31.252:8888/udp/228.1.1.35:8016
 http://192.168.31.252:8888/udp/228.1.1.16:8044
 #EXTINF:-1 tvg-chno="46" tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://tb.zbds.top/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://192.168.31.252:8888/udp/228.1.1.33:8012
-#EXTINF:-1 tvg-chno="47" tvg-id="湖南卫视" tvg-name="湖南卫视 4K" tvg-logo="https://tb.zbds.top/logo/湖南卫视.png" group-title="卫视",湖南卫视 4K
+#EXTINF:-1 tvg-chno="47" tvg-id="湖南卫视" tvg-name="湖南卫视 4K" tvg-logo="https://tb.zbds.top/logo/湖南卫视.png" group-title="4K",湖南卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.40:3002
 #EXTINF:-1 tvg-chno="48" tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://tb.zbds.top/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://192.168.31.252:8888/udp/228.1.1.214:8172
 #EXTINF:-1 tvg-chno="49" tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://192.168.31.252:8888/udp/228.1.1.37:8028
-#EXTINF:-1 tvg-chno="50" tvg-id="江苏卫视" tvg-name="江苏卫视 4K" tvg-logo="https://tb.zbds.top/logo/江苏卫视4K.png" group-title="卫视",江苏卫视 4K
+#EXTINF:-1 tvg-chno="50" tvg-id="江苏卫视" tvg-name="江苏卫视 4K" tvg-logo="https://tb.zbds.top/logo/江苏卫视4K.png" group-title="4K",江苏卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.41:3002
 #EXTINF:-1 tvg-chno="51" tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://tb.zbds.top/logo/江西卫视.png" group-title="卫视",江西卫视
 http://192.168.31.252:8888/udp/228.1.1.211:8164
@@ -107,13 +107,13 @@ http://192.168.31.252:8888/udp/228.1.1.19:8056
 http://192.168.31.252:8888/udp/228.1.1.59:8176
 #EXTINF:-1 tvg-chno="54" tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://tb.zbds.top/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://192.168.31.252:8888/udp/228.1.1.49:8124
-#EXTINF:-1 tvg-chno="55" tvg-id="宁夏卫视" tvg-name="宁夏卫视 4K" tvg-logo="https://tb.zbds.top/logo/宁夏卫视.png" group-title="卫视",宁夏卫视 4K
+#EXTINF:-1 tvg-chno="55" tvg-id="宁夏卫视" tvg-name="宁夏卫视 4K" tvg-logo="https://tb.zbds.top/logo/宁夏卫视.png" group-title="4K",宁夏卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.244:8212
 #EXTINF:-1 tvg-chno="56" tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://tb.zbds.top/logo/青海卫视.png" group-title="卫视",青海卫视
 http://192.168.31.252:8888/udp/228.1.1.60:8184
 #EXTINF:-1 tvg-chno="57" tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://tb.zbds.top/logo/山东卫视.png" group-title="卫视",山东卫视
 http://192.168.31.252:8888/udp/228.1.1.18:8052
-#EXTINF:-1 tvg-chno="58" tvg-id="山东卫视" tvg-name="山东卫视 4K" tvg-logo="https://tb.zbds.top/logo/山东卫视.png" group-title="卫视",山东卫视 4K
+#EXTINF:-1 tvg-chno="58" tvg-id="山东卫视" tvg-name="山东卫视 4K" tvg-logo="https://tb.zbds.top/logo/山东卫视.png" group-title="4K",山东卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.46:3006
 #EXTINF:-1 tvg-chno="59" tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://tb.zbds.top/logo/山西卫视.png" group-title="卫视",山西卫视
 http://192.168.31.252:8888/udp/228.1.1.58:8172
@@ -121,27 +121,27 @@ http://192.168.31.252:8888/udp/228.1.1.58:8172
 http://192.168.31.252:8888/udp/228.1.1.53:8140
 #EXTINF:-1 tvg-chno="61" tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://tb.zbds.top/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://192.168.31.252:8888/udp/228.1.1.36:8020
-#EXTINF:-1 tvg-chno="62" tvg-id="深圳卫视" tvg-name="深圳卫视 4K" tvg-logo="https://tb.zbds.top/logo/深圳卫视4K.png" group-title="卫视",深圳卫视 4K
+#EXTINF:-1 tvg-chno="62" tvg-id="深圳卫视" tvg-name="深圳卫视 4K" tvg-logo="https://tb.zbds.top/logo/深圳卫视4K.png" group-title="4K",深圳卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.240:2000
 #EXTINF:-1 tvg-chno="63" tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://tb.zbds.top/logo/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.31.252:8888/udp/228.1.1.77:8288
-#EXTINF:-1 tvg-chno="64" tvg-id="四川卫视" tvg-name="四川卫视 4K" tvg-logo="https://tb.zbds.top/logo/四川卫视.png" group-title="卫视",四川卫视 4K
+#EXTINF:-1 tvg-chno="64" tvg-id="四川卫视" tvg-name="四川卫视 4K" tvg-logo="https://tb.zbds.top/logo/四川卫视.png" group-title="4K",四川卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.47:3000
 #EXTINF:-1 tvg-chno="65" tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://tb.zbds.top/logo/天津卫视.png" group-title="卫视",天津卫视
 http://192.168.31.252:8888/udp/228.1.1.15:1234
 #EXTINF:-1 tvg-chno="66" tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://tb.zbds.top/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://192.168.31.252:8888/udp/228.1.1.57:8164
-#EXTINF:-1 tvg-chno="67" tvg-id="西藏卫视" tvg-name="西藏卫视 4K" tvg-logo="https://tb.zbds.top/logo/西藏卫视.png" group-title="卫视",西藏卫视 4K
+#EXTINF:-1 tvg-chno="67" tvg-id="西藏卫视" tvg-name="西藏卫视 4K" tvg-logo="https://tb.zbds.top/logo/西藏卫视.png" group-title="4K",西藏卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.245:8188
 #EXTINF:-1 tvg-chno="68" tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://tb.zbds.top/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://192.168.31.252:8888/udp/228.1.1.56:8160
-#EXTINF:-1 tvg-chno="69" tvg-id="新疆卫视" tvg-name="新疆卫视 4K" tvg-logo="https://tb.zbds.top/logo/新疆卫视.png" group-title="卫视",新疆卫视 4K
+#EXTINF:-1 tvg-chno="69" tvg-id="新疆卫视" tvg-name="新疆卫视 4K" tvg-logo="https://tb.zbds.top/logo/新疆卫视.png" group-title="4K",新疆卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.246:8192
 #EXTINF:-1 tvg-chno="70" tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://tb.zbds.top/logo/云南卫视.png" group-title="卫视",云南卫视
 http://192.168.31.252:8888/udp/228.1.1.44:8108
 #EXTINF:-1 tvg-chno="71" tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://192.168.31.252:8888/udp/228.1.1.13:8036
-#EXTINF:-1 tvg-chno="72" tvg-id="浙江卫视" tvg-name="浙江卫视 4K" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png" group-title="卫视",浙江卫视 4K
+#EXTINF:-1 tvg-chno="72" tvg-id="浙江卫视" tvg-name="浙江卫视 4K" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png" group-title="4K",浙江卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.45:3004
 #EXTINF:-1 tvg-chno="73" tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://tb.zbds.top/logo/北京文艺.png" group-title="地方",北京文艺
 http://192.168.31.252:8888/udp/228.1.1.116:8000
@@ -179,7 +179,7 @@ http://192.168.31.252:8888/udp/228.1.1.92:9252
 http://192.168.31.252:8888/udp/228.1.1.34:8156
 #EXTINF:-1 tvg-chno="90" tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://tb.zbds.top/logo/兵团卫视.png" group-title="地方",兵团卫视
 http://192.168.31.252:8888/udp/228.1.1.177:4120
-#EXTINF:-1 tvg-chno="91" tvg-id="兵团卫视" tvg-name="兵团卫视 4K" tvg-logo="https://tb.zbds.top/logo/兵团卫视.png" group-title="地方",兵团卫视 4K
+#EXTINF:-1 tvg-chno="91" tvg-id="兵团卫视" tvg-name="兵团卫视 4K" tvg-logo="https://tb.zbds.top/logo/兵团卫视.png" group-title="4K",兵团卫视 4K
 http://192.168.31.252:8888/udp/228.1.1.243:8196
 #EXTINF:-1 tvg-chno="92" tvg-id="CETV" tvg-name="CETV" tvg-logo="https://tb.zbds.top/logo/CETV.png" group-title="教育",CETV
 http://192.168.31.252:8888/udp/228.1.1.160:4120
