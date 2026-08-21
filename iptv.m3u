@@ -1,275 +1,109 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV1.png" group-title="央视",CCTV1
-http://192.168.31.252:8888/udp/228.1.1.28:8008
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 #EXTINF:-1 tvg-chno="2" tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV2.png" group-title="央视",CCTV2
-http://192.168.31.252:8888/udp/228.1.1.24:8084
-#EXTINF:-1 tvg-chno="3" tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV3.png" group-title="央视",CCTV3
-http://192.168.31.252:8888/udp/228.1.1.191:8002
-#EXTINF:-1 tvg-chno="4" tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV4.png" group-title="央视",CCTV4
-http://192.168.31.252:8888/udp/228.1.1.25:8092
-#EXTINF:-1 tvg-chno="5" tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV4%E6%AC%A7%E6%B4%B2.png" group-title="央视",CCTV4欧洲
-http://192.168.31.252:8888/udp/228.1.1.213:4220
-#EXTINF:-1 tvg-chno="6" tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV4%E7%BE%8E%E6%B4%B2.png" group-title="央视",CCTV4美洲
-http://192.168.31.252:8888/udp/228.1.1.203:4220
-#EXTINF:-1 tvg-chno="7" tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV5.png" group-title="央视",CCTV5
-http://192.168.31.252:8888/udp/228.1.1.192:8002
-#EXTINF:-1 tvg-chno="8" tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV5%2B.png" group-title="央视",CCTV5+
-http://192.168.31.252:8888/udp/228.1.1.23:8004
-#EXTINF:-1 tvg-chno="9" tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV6.png" group-title="央视",CCTV6
-http://192.168.31.252:8888/udp/228.1.1.193:8002
-#EXTINF:-1 tvg-chno="10" tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV7.png" group-title="央视",CCTV7
-http://192.168.31.252:8888/udp/228.1.1.26:8104
-#EXTINF:-1 tvg-chno="11" tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV8.png" group-title="央视",CCTV8
-http://192.168.31.252:8888/udp/228.1.1.194:8002
-#EXTINF:-1 tvg-chno="12" tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV9.png" group-title="央视",CCTV9
-http://192.168.31.252:8888/udp/228.1.1.27:8112
-#EXTINF:-1 tvg-chno="13" tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV10.png" group-title="央视",CCTV10
-http://192.168.31.252:8888/udp/228.1.1.29:8116
-#EXTINF:-1 tvg-chno="14" tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV11.png" group-title="央视",CCTV11
-http://192.168.31.252:8888/udp/228.1.1.182:8120
-#EXTINF:-1 tvg-chno="15" tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV12.png" group-title="央视",CCTV12
-http://192.168.31.252:8888/udp/228.1.1.30:8124
-#EXTINF:-1 tvg-chno="16" tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV13.png" group-title="央视",CCTV13
-http://192.168.31.252:8888/udp/228.1.1.212:8128
-#EXTINF:-1 tvg-chno="17" tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV14.png" group-title="央视",CCTV14
-http://192.168.31.252:8888/udp/228.1.1.31:8132
-#EXTINF:-1 tvg-chno="18" tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV15.png" group-title="央视",CCTV15
-http://192.168.31.252:8888/udp/228.1.1.183:8136
-#EXTINF:-1 tvg-chno="19" tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV16.png" group-title="央视",CCTV16
-http://192.168.31.252:8888/udp/228.1.1.218:8002
-#EXTINF:-1 tvg-chno="20" tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV17.png" group-title="央视",CCTV17
-http://192.168.31.252:8888/udp/228.1.1.181:8144
-#EXTINF:-1 tvg-chno="21" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://mrprince.github.io/iptv/logos/CGTN.png" group-title="央视",CGTN
-http://192.168.31.252:8888/udp/228.1.1.204:4220
-#EXTINF:-1 tvg-chno="22" tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://mrprince.github.io/iptv/logos/CGTN%E8%A5%BF%E8%AF%AD.png" group-title="央视",CGTN西语
-http://192.168.31.252:8888/udp/228.1.1.206:4220
-#EXTINF:-1 tvg-chno="23" tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://mrprince.github.io/iptv/logos/CGTN%E6%B3%95%E8%AF%AD.png" group-title="央视",CGTN法语
-http://192.168.31.252:8888/udp/228.1.1.207:4220
-#EXTINF:-1 tvg-chno="24" tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://mrprince.github.io/iptv/logos/CGTN%E4%BF%84%E8%AF%AD.png" group-title="央视",CGTN俄语
-http://192.168.31.252:8888/udp/228.1.1.209:4220
-#EXTINF:-1 tvg-chno="25" tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://mrprince.github.io/iptv/logos/CGTN%E9%98%BF%E8%AF%AD.png" group-title="央视",CGTN阿语
-http://192.168.31.252:8888/udp/228.1.1.208:4220
-#EXTINF:-1 tvg-chno="26" tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://mrprince.github.io/iptv/logos/CGTN%E7%BA%AA%E5%BD%95.png" group-title="央视",CGTN纪录
-http://192.168.31.252:8888/udp/228.1.1.205:4220
-#EXTINF:-1 tvg-chno="27" tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",安徽卫视
-http://192.168.31.252:8888/udp/228.1.1.21:8064
-#EXTINF:-1 tvg-chno="28" tvg-id="北京卫视" tvg-name="北京卫视 4K" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="卫视",北京卫视 4K
-http://192.168.31.252:8888/udp/228.1.1.234:8002
-#EXTINF:-1 tvg-chno="29" tvg-id="北京卫视" tvg-name="北京卫视 1080P" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视 1080P
-http://192.168.31.252:8888/udp/228.1.1.115:8000
-#EXTINF:-1 tvg-chno="30" tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",重庆卫视
-http://192.168.31.252:8888/udp/228.1.1.210:8160
-#EXTINF:-1 tvg-chno="31" tvg-id="东方卫视" tvg-name="东方卫视 1080P" tvg-logo="https://mrprince.github.io/iptv/logos/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",东方卫视 1080P
-http://192.168.31.252:8888/udp/228.1.1.39:8032
-#EXTINF:-1 tvg-chno="32" tvg-id="东方卫视" tvg-name="东方卫视 4K" tvg-logo="https://mrprince.github.io/iptv/logos/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="卫视",东方卫视 4K
-http://192.168.31.252:8888/udp/228.1.1.43:3006
-#EXTINF:-1 tvg-chno="33" tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="卫视",甘肃卫视
-http://192.168.31.252:8888/udp/228.1.1.61:8188
-#EXTINF:-1 tvg-chno="34" tvg-id="广东卫视" tvg-name="广东卫视 1080P" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",广东卫视 1080P
-http://192.168.31.252:8888/udp/228.1.1.17:8048
-#EXTINF:-1 tvg-chno="35" tvg-id="广东卫视" tvg-name="广东卫视 4K" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="卫视",广东卫视 4K
-http://192.168.31.252:8888/udp/228.1.1.241:2000
-#EXTINF:-1 tvg-chno="36" tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",广西卫视
-http://192.168.31.252:8888/udp/228.1.1.80:8300
-#EXTINF:-1 tvg-chno="37" tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="卫视",贵州卫视
-http://192.168.31.252:8888/udp/228.1.1.188:8076
-#EXTINF:-1 tvg-chno="38" tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",海南卫视
-http://192.168.31.252:8888/udp/228.1.1.81:8304
-#EXTINF:-1 tvg-chno="39" tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河北卫视
-http://192.168.31.252:8888/udp/228.1.1.187:8072
-#EXTINF:-1 tvg-chno="40" tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河南卫视
-http://192.168.31.252:8888/udp/228.1.1.50:8128
-#EXTINF:-1 tvg-chno="41" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",黑龙江卫视
-http://192.168.31.252:8888/udp/228.1.1.35:8016
-#EXTINF:-1 tvg-chno="42" tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖北卫视
-http://192.168.31.252:8888/udp/228.1.1.16:8044
-#EXTINF:-1 tvg-chno="43" tvg-id="湖南卫视" tvg-name="湖南卫视 1080P" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖南卫视 1080P
-http://192.168.31.252:8888/udp/228.1.1.33:8012
-#EXTINF:-1 tvg-chno="44" tvg-id="湖南卫视" tvg-name="湖南卫视 4K" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="卫视",湖南卫视 4K
-http://192.168.31.252:8888/udp/228.1.1.40:3002
-#EXTINF:-1 tvg-chno="45" tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",吉林卫视
-http://192.168.31.252:8888/udp/228.1.1.214:8172
-#EXTINF:-1 tvg-chno="46" tvg-id="江苏卫视" tvg-name="江苏卫视 1080P" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",江苏卫视 1080P
-http://192.168.31.252:8888/udp/228.1.1.37:8028
-#EXTINF:-1 tvg-chno="47" tvg-id="江苏卫视" tvg-name="江苏卫视 4K" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="卫视",江苏卫视 4K
-http://192.168.31.252:8888/udp/228.1.1.41:3002
-#EXTINF:-1 tvg-chno="48" tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",江西卫视
-http://192.168.31.252:8888/udp/228.1.1.211:8164
-#EXTINF:-1 tvg-chno="49" tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="卫视",辽宁卫视
-http://192.168.31.252:8888/udp/228.1.1.19:8056
-#EXTINF:-1 tvg-chno="50" tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="卫视",内蒙古卫视
-http://192.168.31.252:8888/udp/228.1.1.59:8176
-#EXTINF:-1 tvg-chno="51" tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",宁夏卫视
-http://192.168.31.252:8888/udp/228.1.1.49:8124
-#EXTINF:-1 tvg-chno="52" tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="卫视",青海卫视
-http://192.168.31.252:8888/udp/228.1.1.60:8184
-#EXTINF:-1 tvg-chno="53" tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东卫视
-http://192.168.31.252:8888/udp/228.1.1.18:8052
-#EXTINF:-1 tvg-chno="54" tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",山西卫视
-http://192.168.31.252:8888/udp/228.1.1.58:8172
-#EXTINF:-1 tvg-chno="55" tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",陕西卫视
-http://192.168.31.252:8888/udp/228.1.1.53:8140
-#EXTINF:-1 tvg-chno="56" tvg-id="深圳卫视" tvg-name="深圳卫视 1080P" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="卫视",深圳卫视 1080P
-http://192.168.31.252:8888/udp/228.1.1.36:8020
-#EXTINF:-1 tvg-chno="57" tvg-id="深圳卫视" tvg-name="深圳卫视 4K" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="卫视",深圳卫视 4K
-http://192.168.31.252:8888/udp/228.1.1.240:2000
-#EXTINF:-1 tvg-chno="58" tvg-id="四川卫视" tvg-name="四川卫视 1080P" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="卫视",四川卫视 1080P
-http://192.168.31.252:8888/udp/228.1.1.77:8288
-#EXTINF:-1 tvg-chno="59" tvg-id="四川卫视" tvg-name="四川卫视 4K" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="卫视",四川卫视 4K
-http://192.168.31.252:8888/udp/228.1.1.47:3000
-#EXTINF:-1 tvg-chno="60" tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="卫视",天津卫视
-http://192.168.31.252:8888/udp/228.1.1.15:1234
-#EXTINF:-1 tvg-chno="61" tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",西藏卫视
-http://192.168.31.252:8888/udp/228.1.1.57:8164
-#EXTINF:-1 tvg-chno="62" tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",新疆卫视
-http://192.168.31.252:8888/udp/228.1.1.56:8160
-#EXTINF:-1 tvg-chno="63" tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",云南卫视
-http://192.168.31.252:8888/udp/228.1.1.44:8108
-#EXTINF:-1 tvg-chno="64" tvg-id="浙江卫视" tvg-name="浙江卫视 1080P" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视 1080P
-http://192.168.31.252:8888/udp/228.1.1.13:8036
-#EXTINF:-1 tvg-chno="65" tvg-id="浙江卫视" tvg-name="浙江卫视 4K" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="卫视",浙江卫视 4K
-http://192.168.31.252:8888/udp/228.1.1.45:3004
-#EXTINF:-1 tvg-chno="66" tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA.png" group-title="地方",北京文艺
-http://192.168.31.252:8888/udp/228.1.1.116:8000
-#EXTINF:-1 tvg-chno="67" tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方",北京纪实科教
-http://192.168.31.252:8888/udp/228.1.1.196:8000
-#EXTINF:-1 tvg-chno="68" tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86.png" group-title="地方",北京影视
-http://192.168.31.252:8888/udp/228.1.1.190:8000
-#EXTINF:-1 tvg-chno="69" tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E7%94%9F%E6%B4%BB.png" group-title="地方",北京生活
-http://192.168.31.252:8888/udp/228.1.1.198:8000
-#EXTINF:-1 tvg-chno="70" tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="地方",北京体育休闲
-http://192.168.31.252:8888/udp/228.1.1.117:8000
-#EXTINF:-1 tvg-chno="71" tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F.png" group-title="地方",北京财经
-http://192.168.31.252:8888/udp/228.1.1.197:8000
-#EXTINF:-1 tvg-chno="72" tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png" group-title="地方",北京新闻
-http://192.168.31.252:8888/udp/228.1.1.189:8000
-#EXTINF:-1 tvg-chno="73" tvg-id="北京国际" tvg-name="北京国际" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png" group-title="地方",北京国际
-http://192.168.31.252:8888/udp/228.1.1.111:8000
-#EXTINF:-1 tvg-chno="74" tvg-id="北京KAKU少儿" tvg-name="北京KAKU少儿" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%ACKAKU%E5%B0%91%E5%84%BF.png" group-title="地方",北京KAKU少儿
-http://192.168.31.252:8888/udp/228.1.1.195:8000
-#EXTINF:-1 tvg-chno="75" tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%BA%AA%E5%AE%9E%E4%BA%BA%E6%96%87.png" group-title="地方",纪实人文
-http://192.168.31.252:8888/udp/228.1.1.20:8060
-#EXTINF:-1 tvg-chno="76" tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="地方",东南卫视
-http://192.168.31.252:8888/udp/228.1.1.185:8148
-#EXTINF:-1 tvg-chno="77" tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="地方",厦门卫视
-http://192.168.31.252:8888/udp/228.1.1.176:4120
-#EXTINF:-1 tvg-chno="78" tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="地方",嘉佳卡通
-http://192.168.31.252:8888/udp/228.1.1.93:9268
-#EXTINF:-1 tvg-chno="79" tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png" group-title="地方",大湾区卫视
-http://192.168.31.252:8888/udp/228.1.1.142:8002
-#EXTINF:-1 tvg-chno="80" tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="地方",三沙卫视
-http://192.168.31.252:8888/udp/228.1.1.186:4120
-#EXTINF:-1 tvg-chno="81" tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="地方",金鹰卡通
-http://192.168.31.252:8888/udp/228.1.1.92:9252
-#EXTINF:-1 tvg-chno="82" tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B9%96%E5%8D%97%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="地方",湖南金鹰纪实
-http://192.168.31.252:8888/udp/228.1.1.34:8156
-#EXTINF:-1 tvg-chno="83" tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="地方",兵团卫视
-http://192.168.31.252:8888/udp/228.1.1.177:4120
-#EXTINF:-1 tvg-chno="84" tvg-id="CETV" tvg-name="CETV" tvg-logo="https://mrprince.github.io/iptv/logos/CETV.png" group-title="教育",CETV
-http://192.168.31.252:8888/udp/228.1.1.160:4120
-#EXTINF:-1 tvg-chno="85" tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://mrprince.github.io/iptv/logos/CETV1.png" group-title="教育",CETV1
-http://192.168.31.252:8888/udp/228.1.1.32:8152
-#EXTINF:-1 tvg-chno="86" tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://mrprince.github.io/iptv/logos/CETV2.png" group-title="教育",CETV2
-http://192.168.31.252:8888/udp/228.1.1.97:4120
-#EXTINF:-1 tvg-chno="87" tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://mrprince.github.io/iptv/logos/CETV3.png" group-title="教育",CETV3
-http://192.168.31.252:8888/udp/228.1.1.98:4120
-#EXTINF:-1 tvg-chno="88" tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://mrprince.github.io/iptv/logos/CETV4.png" group-title="教育",CETV4
-http://192.168.31.252:8888/udp/228.1.1.99:4120
-#EXTINF:-1 tvg-chno="89" tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="教育",山东教育卫视
-http://192.168.31.252:8888/udp/228.1.1.96:4120
-#EXTINF:-1 tvg-chno="90" tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV4K.png" group-title="其它",CCTV4K
-http://192.168.31.252:8888/udp/228.1.1.227:2000
-#EXTINF:-1 tvg-chno="91" tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%88%B1%E4%B8%8A4K.png" group-title="其它",爱上4K
-http://192.168.31.252:8888/udp/228.1.1.38:2000
-#EXTINF:-1 tvg-chno="92" tvg-id="爱生活" tvg-name="爱生活" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%88%B1%E7%94%9F%E6%B4%BB.png" group-title="其它",爱生活
-http://192.168.31.252:8888/udp/228.1.1.167:4120
-#EXTINF:-1 tvg-chno="93" tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png" group-title="其它",财富天下
-http://192.168.31.252:8888/udp/228.1.1.90:9136
-#EXTINF:-1 tvg-chno="94" tvg-id="茶" tvg-name="茶" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%8C%B6.png" group-title="其它",茶
-http://192.168.31.252:8888/udp/228.1.1.145:8002
-#EXTINF:-1 tvg-chno="95" tvg-id="朝阳融媒" tvg-name="朝阳融媒" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%9C%9D%E9%98%B3%E8%9E%8D%E5%AA%92.png" group-title="其它",朝阳融媒
-http://192.168.31.252:8888/udp/228.1.1.140:8001
-#EXTINF:-1 tvg-chno="96" tvg-id="城市剧场" tvg-name="城市剧场" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%9F%8E%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="其它",城市剧场
-http://192.168.31.252:8888/udp/228.1.1.148:4120
-#EXTINF:-1 tvg-chno="97" tvg-id="地理" tvg-name="地理" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%9C%B0%E7%90%86.png" group-title="其它",地理
-http://192.168.31.252:8888/udp/228.1.1.152:4120
-#EXTINF:-1 tvg-chno="98" tvg-id="动画" tvg-name="动画" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8A%A8%E7%94%BB.png" group-title="其它",动画
-http://192.168.31.252:8888/udp/228.1.1.161:4120
-#EXTINF:-1 tvg-chno="99" tvg-id="动作影院" tvg-name="动作影院" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8A%A8%E4%BD%9C%E5%BD%B1%E9%99%A2.png" group-title="其它",动作影院
-http://192.168.31.252:8888/udp/228.1.1.173:4120
-#EXTINF:-1 tvg-chno="100" tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png" group-title="其它",古装剧场
-http://192.168.31.252:8888/udp/228.1.1.150:4120
-#EXTINF:-1 tvg-chno="101" tvg-id="光影" tvg-name="光影" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%85%89%E5%BD%B1.png" group-title="其它",光影
-http://192.168.31.252:8888/udp/228.1.1.165:4120
-#EXTINF:-1 tvg-chno="102" tvg-id="国学" tvg-name="国学" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%9B%BD%E5%AD%A6.png" group-title="其它",国学
-http://192.168.31.252:8888/udp/228.1.1.158:4120
-#EXTINF:-1 tvg-chno="103" tvg-id="好学生" tvg-name="好学生" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%A5%BD%E5%AD%A6%E7%94%9F.png" group-title="其它",好学生
-http://192.168.31.252:8888/udp/228.1.1.162:4120
-#EXTINF:-1 tvg-chno="104" tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="其它",家庭影院
-http://192.168.31.252:8888/udp/228.1.1.174:4120
-#EXTINF:-1 tvg-chno="105" tvg-id="鉴赏" tvg-name="鉴赏" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%89%B4%E8%B5%8F.png" group-title="其它",鉴赏
-http://192.168.31.252:8888/udp/228.1.1.163:4120
-#EXTINF:-1 tvg-chno="106" tvg-id="解密" tvg-name="解密" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%A7%A3%E5%AF%86.png" group-title="其它",解密
-http://192.168.31.252:8888/udp/228.1.1.156:4120
-#EXTINF:-1 tvg-chno="107" tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png" group-title="其它",睛彩广场舞
-http://192.168.31.252:8888/udp/228.1.1.226:8002
-#EXTINF:-1 tvg-chno="108" tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80.png" group-title="其它",睛彩竞技
-http://192.168.31.252:8888/udp/228.1.1.223:8002
-#EXTINF:-1 tvg-chno="109" tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83.png" group-title="其它",睛彩篮球
-http://192.168.31.252:8888/udp/228.1.1.224:8002
-#EXTINF:-1 tvg-chno="110" tvg-id="睛彩羽毛球" tvg-name="睛彩羽毛球" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%9D%9B%E5%BD%A9%E7%BE%BD%E6%AF%9B%E7%90%83.png" group-title="其它",睛彩羽毛球
-http://192.168.31.252:8888/udp/228.1.1.225:8002
-#EXTINF:-1 tvg-chno="111" tvg-id="精选" tvg-name="精选" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%B2%BE%E9%80%89.png" group-title="其它",精选
-http://192.168.31.252:8888/udp/228.1.1.155:4120
-#EXTINF:-1 tvg-chno="112" tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA.png" group-title="其它",军旅剧场
-http://192.168.31.252:8888/udp/228.1.1.149:4120
-#EXTINF:-1 tvg-chno="113" tvg-id="军事" tvg-name="军事" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%86%9B%E4%BA%8B.png" group-title="其它",军事
-http://192.168.31.252:8888/udp/228.1.1.157:4120
-#EXTINF:-1 tvg-chno="114" tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="其它",快乐垂钓
-http://192.168.31.252:8888/udp/228.1.1.144:8002
-#EXTINF:-1 tvg-chno="115" tvg-id="美人" tvg-name="美人" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%BE%8E%E4%BA%BA.png" group-title="其它",美人
-http://192.168.31.252:8888/udp/228.1.1.154:4120
-#EXTINF:-1 tvg-chno="116" tvg-id="美妆" tvg-name="美妆" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%BE%8E%E5%A6%86.png" group-title="其它",美妆
-http://192.168.31.252:8888/udp/228.1.1.153:4120
-#EXTINF:-1 tvg-chno="117" tvg-id="魅力时尚" tvg-name="魅力时尚" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%AD%85%E5%8A%9B%E6%97%B6%E5%B0%9A.png" group-title="其它",魅力时尚
-http://192.168.31.252:8888/udp/228.1.1.86:9012
-#EXTINF:-1 tvg-chno="118" tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%90%8C%E5%AE%A0TV.png" group-title="其它",萌宠TV
-http://192.168.31.252:8888/udp/228.1.1.135:8002
-#EXTINF:-1 tvg-chno="119" tvg-id="墨宝" tvg-name="墨宝" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%A2%A8%E5%AE%9D.png" group-title="其它",墨宝
-http://192.168.31.252:8888/udp/228.1.1.164:4120
-#EXTINF:-1 tvg-chno="120" tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B7%98%E7%94%B5%E5%BD%B1.png" group-title="其它",淘电影
-http://192.168.31.252:8888/udp/228.1.1.124:8001
-#EXTINF:-1 tvg-chno="121" tvg-id="淘精彩" tvg-name="淘精彩" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B7%98%E7%B2%BE%E5%BD%A9.png" group-title="其它",淘精彩
-http://192.168.31.252:8888/udp/228.1.1.202:8002
-#EXTINF:-1 tvg-chno="122" tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B7%98%E5%89%A7%E5%9C%BA.png" group-title="其它",淘剧场
-http://192.168.31.252:8888/udp/228.1.1.126:8001
-#EXTINF:-1 tvg-chno="123" tvg-id="淘娱乐" tvg-name="淘娱乐" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B7%98%E5%A8%B1%E4%B9%90.png" group-title="其它",淘娱乐
-http://192.168.31.252:8888/udp/228.1.1.133:8001
-#EXTINF:-1 tvg-chno="124" tvg-id="淘BABY" tvg-name="淘BABY" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B7%98BABY.png" group-title="其它",淘BABY
-http://192.168.31.252:8888/udp/228.1.1.128:8001
-#EXTINF:-1 tvg-chno="125" tvg-id="武术" tvg-name="武术" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%AD%A6%E6%9C%AF.png" group-title="其它",武术
-http://192.168.31.252:8888/udp/228.1.1.168:4120
-#EXTINF:-1 tvg-chno="126" tvg-id="武侠剧场" tvg-name="武侠剧场" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%AD%A6%E4%BE%A0%E5%89%A7%E5%9C%BA.png" group-title="其它",武侠剧场
-http://192.168.31.252:8888/udp/228.1.1.171:4120
-#EXTINF:-1 tvg-chno="127" tvg-id="喜剧影院" tvg-name="喜剧影院" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%96%9C%E5%89%A7%E5%BD%B1%E9%99%A2.png" group-title="其它",喜剧影院
-http://192.168.31.252:8888/udp/228.1.1.172:4120
-#EXTINF:-1 tvg-chno="128" tvg-id="戏曲" tvg-name="戏曲" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%88%8F%E6%9B%B2.png" group-title="其它",戏曲
-http://192.168.31.252:8888/udp/228.1.1.159:4120
-#EXTINF:-1 tvg-chno="129" tvg-id="星影" tvg-name="星影" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%98%9F%E5%BD%B1.png" group-title="其它",星影
-http://192.168.31.252:8888/udp/228.1.1.175:4120
-#EXTINF:-1 tvg-chno="130" tvg-id="延庆电视台" tvg-name="延庆电视台" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%BB%B6%E5%BA%86%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="其它",延庆电视台
-http://192.168.31.252:8888/udp/228.1.1.219:8002
-#EXTINF:-1 tvg-chno="131" tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.png" group-title="其它",音乐现场
-http://192.168.31.252:8888/udp/228.1.1.151:4120
-#EXTINF:-1 tvg-chno="132" tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://mrprince.github.io/iptv/logos/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png" group-title="其它",中国交通
-http://192.168.31.252:8888/udp/228.1.1.222:8002
-#EXTINF:-1 tvg-chno="133" tvg-id="足球" tvg-name="足球" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%B6%B3%E7%90%83.png" group-title="其它",足球
-http://192.168.31.252:8888/udp/228.1.1.170:4120
-#EXTINF:-1 tvg-chno="134" tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mrprince.github.io/iptv/logos/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="其它",CHC动作电影
-http://192.168.31.252:8888/udp/228.1.1.238:7000
-#EXTINF:-1 tvg-chno="135" tvg-id="IPTV经典电影" tvg-name="IPTV经典电影" tvg-logo="https://mrprince.github.io/iptv/logos/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="其它",IPTV经典电影
-http://192.168.31.252:8888/udp/228.1.1.89:9024
-#EXTINF:-1 tvg-chno="136" tvg-id="IPTV热播剧场" tvg-name="IPTV热播剧场" tvg-logo="https://mrprince.github.io/iptv/logos/IPTV%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA.png" group-title="其它",IPTV热播剧场
-http://192.168.31.252:8888/udp/228.1.1.88:9020
-#EXTINF:-1 tvg-chno="137" tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://mrprince.github.io/iptv/logos/IPTV%E5%B0%91%E5%84%BF%E5%8A%A8%E7%94%BB.png" group-title="其它",IPTV少儿动画
-http://192.168.31.252:8888/udp/228.1.1.83:9000
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-chno="3" tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV4.png" group-title="央视",CCTV4
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
+#EXTINF:-1 tvg-chno="4" tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV5%2B.png" group-title="央视",CCTV5+
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND
+#EXTINF:-1 tvg-chno="5" tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV7.png" group-title="央视",CCTV7
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EutDC7HLJc_gC0YdIDr7oig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPOHuulzlCcw92vP3vgYa4n%2CEND
+#EXTINF:-1 tvg-chno="6" tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV9.png" group-title="央视",CCTV9
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-chno="7" tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV12.png" group-title="央视",CCTV12
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2knJCFLHz_HqfBZXNGeA1A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIlZ5z7o_ym15iMooogSvj%2CEND
+#EXTINF:-1 tvg-chno="8" tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV13.png" group-title="央视",CCTV13
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-chno="9" tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV14.png" group-title="央视",CCTV14
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_UgKg-_uoDiTW1MNHptPg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLabf3bHEXv4444iiOs_Px%2CEND
+#EXTINF:-1 tvg-chno="10" tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV16.png" group-title="央视",CCTV16
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
+#EXTINF:-1 tvg-chno="11" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://mrprince.github.io/iptv/logos/CGTN.png" group-title="央视",CGTN
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND
+#EXTINF:-1 tvg-chno="12" tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND
+#EXTINF:-1 tvg-chno="13" tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",东方卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
+#EXTINF:-1 tvg-chno="14" tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="卫视",甘肃卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226545/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EPxObabIs3mLyPmSf2HHtqQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNBE3K16ZfzYGIqbP6z6cGJ%2CEND
+#EXTINF:-1 tvg-chno="15" tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",广西卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EpjsBggKPaCw3f-xlBWZWaQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMJYhPE64lykNkIsypBRZqO%2CEND
+#EXTINF:-1 tvg-chno="16" tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",海南卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EZOP0PLu1-XG8_Ae0lTe9HQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNODcjESMU4f6yMuMuOuQbie%2CEND
+#EXTINF:-1 tvg-chno="17" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",黑龙江卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEHwpSHKc5p-bHJfhpIWFig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5Y8rTELLykZJHp-bmY2YW%2CEND
+#EXTINF:-1 tvg-chno="18" tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖北卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExfU_RR0RQok0w_xd7h22CQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPVnDV2fEBphgm3TP7hAHBx%2CEND
+#EXTINF:-1 tvg-chno="19" tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",江苏卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EJT6eqtJpcKnNhyUS90EOgw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN1SxXwCt0S69Lq27ZMJpfR%2CEND
+#EXTINF:-1 tvg-chno="20" tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",江西卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND
+#EXTINF:-1 tvg-chno="21" tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="卫视",内蒙古卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226530/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EHHMwHAFmEx4xxtZRlWhCrg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMZe-zTYLW-Yz0RcFLVr37n%2CEND
+#EXTINF:-1 tvg-chno="22" tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",宁夏卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226528/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9-jWxE6tfiz7aO7MvbCY7Q%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND
+#EXTINF:-1 tvg-chno="23" tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="卫视",青海卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226529/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ege4qzvU2ax15UdL3NFQ7AQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNdiWnhjH1amCOGECUhABr9%2CEND
+#EXTINF:-1 tvg-chno="24" tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EycMz-PML_dQW8iLcNBkw7g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYCYLC04QAM6EBli1wTuET%2CEND
+#EXTINF:-1 tvg-chno="25" tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",山西卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EokFa56wMKUpB1vaIjEe92A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPoj5DNJHruOghC7vAQxinJ%2CEND
+#EXTINF:-1 tvg-chno="26" tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",陕西卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6sNSqmLCqLFl_AJPBXp1qA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO6b4uKEI14SNy0LDiw52LH%2CEND
+#EXTINF:-1 tvg-chno="27" tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="卫视",深圳卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND
+#EXTINF:-1 tvg-chno="28" tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",西藏卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EmHuqUIe0F51C4h6xZanhig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND
+#EXTINF:-1 tvg-chno="29" tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",新疆卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETtoZKRqwsL9SQjr1A0iH5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMREPnBLSH3b8pR7cnmo9am%2CEND
+#EXTINF:-1 tvg-chno="30" tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",云南卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzQy9f4DIExLCs810r0Q6Kw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
+#EXTINF:-1 tvg-chno="31" tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eo6BokfP3WkB3SIXSrgvRBA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP3w4GkbU9L7iRQ8H2vgzhF%2CEND
+#EXTINF:-1 tvg-chno="32" tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA.png" group-title="地方",北京文艺
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
+#EXTINF:-1 tvg-chno="33" tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方",北京纪实科教
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejj3PtVjzl6ZzFdM-Vi1dmQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPJa61jREJv4ZfZigyrxX0U%2CEND
+#EXTINF:-1 tvg-chno="34" tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86.png" group-title="地方",北京影视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
+#EXTINF:-1 tvg-chno="35" tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E7%94%9F%E6%B4%BB.png" group-title="地方",北京生活
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
+#EXTINF:-1 tvg-chno="36" tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="地方",北京体育休闲
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
+#EXTINF:-1 tvg-chno="37" tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F.png" group-title="地方",北京财经
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
+#EXTINF:-1 tvg-chno="38" tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png" group-title="地方",北京新闻
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
+#EXTINF:-1 tvg-chno="39" tvg-id="北京国际" tvg-name="北京国际" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png" group-title="地方",北京国际
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
+#EXTINF:-1 tvg-chno="40" tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="地方",东南卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkZUfG47p98m2PZiCsgkhyQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5EcQIH6BiwZavlhPLb4oJ%2CEND
+#EXTINF:-1 tvg-chno="41" tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="地方",厦门卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0HuqirkTe1cAUljwazjNGw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMvSOYesmmWPPy5i3xS4Rsb%2CEND
+#EXTINF:-1 tvg-chno="42" tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="地方",嘉佳卡通
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226539/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQDRyt1jaDU7f52NwPN526A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOLcRNi6C1PMX5tGrYl_SiR%2CEND
+#EXTINF:-1 tvg-chno="43" tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="地方",三沙卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
+#EXTINF:-1 tvg-chno="44" tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="地方",延边卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND
+#EXTINF:-1 tvg-chno="45" tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png" group-title="地方",康巴卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND
+#EXTINF:-1 tvg-chno="46" tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="地方",兵团卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESv-rH0nF41q6pxKZKeRnNA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN-56c_rnHTXQA4R-D0Dlau%2CEND
+#EXTINF:-1 tvg-chno="47" tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://mrprince.github.io/iptv/logos/CETV1.png" group-title="教育",CETV1
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
+#EXTINF:-1 tvg-chno="48" tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://mrprince.github.io/iptv/logos/CETV2.png" group-title="教育",CETV2
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
+#EXTINF:-1 tvg-chno="49" tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://mrprince.github.io/iptv/logos/CETV4.png" group-title="教育",CETV4
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
+#EXTINF:-1 tvg-chno="50" tvg-id="茶" tvg-name="茶" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%8C%B6.png" group-title="其它",茶
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ec1XXmbKOEhI6pFYCxtVG9A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD3hCDGl7mDB_HDsnRfhB2%2CEND
+#EXTINF:-1 tvg-chno="51" tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png" group-title="其它",超级体育
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND
+#EXTINF:-1 tvg-chno="52" tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png" group-title="其它",超级综艺
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND
+#EXTINF:-1 tvg-chno="53" tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://mrprince.github.io/iptv/logos/%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png" group-title="其它",金牌综艺
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWi_zfgUXV5YnB6haFF-C2%2CEND
+#EXTINF:-1 tvg-chno="54" tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="其它",快乐垂钓
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~RHz0NOpqUZZN1Iz6lVLkkg~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNSiF8rKF1Pn2LepKMJ2cEG%2CEND
