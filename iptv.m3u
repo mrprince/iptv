@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV1.png" group-title="央视",CCTV1
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
-#EXTINF:-1 tvg-chno="2" tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV2.png" group-title="央视",CCTV2
+#EXTINF:-1 tvg-chno="2" tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视",CCTV2
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-chno="3" tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视",CCTV4
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
@@ -17,9 +17,9 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-chno="9" tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV14.png" group-title="央视",CCTV14
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_UgKg-_uoDiTW1MNHptPg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLabf3bHEXv4444iiOs_Px%2CEND
-#EXTINF:-1 tvg-chno="10" tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="央视",CCTV16
+#EXTINF:-1 tvg-chno="10" tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV16.png" group-title="央视",CCTV16
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
-#EXTINF:-1 tvg-chno="11" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://mrprince.github.io/iptv/logos/CGTN.png" group-title="央视",CGTN
+#EXTINF:-1 tvg-chno="11" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN.png" group-title="央视",CGTN
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND
 #EXTINF:-1 tvg-chno="12" tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND
@@ -83,7 +83,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0HuqirkTe1cAUljwazjNGw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMvSOYesmmWPPy5i3xS4Rsb%2CEND
 #EXTINF:-1 tvg-chno="42" tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="地方",嘉佳卡通
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226539/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQDRyt1jaDU7f52NwPN526A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOLcRNi6C1PMX5tGrYl_SiR%2CEND
-#EXTINF:-1 tvg-chno="43" tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="地方",三沙卫视
+#EXTINF:-1 tvg-chno="43" tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://tb.zbds.top/logo/三沙卫视.png" group-title="地方",三沙卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 #EXTINF:-1 tvg-chno="44" tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="地方",延边卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND
@@ -95,7 +95,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
 #EXTINF:-1 tvg-chno="48" tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://tb.zbds.top/logo/CETV2.png" group-title="教育",CETV2
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
-#EXTINF:-1 tvg-chno="49" tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://mrprince.github.io/iptv/logos/CETV4.png" group-title="教育",CETV4
+#EXTINF:-1 tvg-chno="49" tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://tb.zbds.top/logo/CETV4.png" group-title="教育",CETV4
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
 #EXTINF:-1 tvg-chno="50" tvg-id="茶" tvg-name="茶" tvg-logo="https://mrprince.github.io/iptv/logos/%E8%8C%B6.png" group-title="其它",茶
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ec1XXmbKOEhI6pFYCxtVG9A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD3hCDGl7mDB_HDsnRfhB2%2CEND
