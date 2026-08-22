@@ -3,13 +3,13 @@
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 #EXTINF:-1 tvg-chno="2" tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV2.png" group-title="央视",CCTV2
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-chno="3" tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV4.png" group-title="央视",CCTV4
+#EXTINF:-1 tvg-chno="3" tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视",CCTV4
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
-#EXTINF:-1 tvg-chno="4" tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV5%2B.png" group-title="央视",CCTV5+
+#EXTINF:-1 tvg-chno="4" tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视",CCTV5+
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND
-#EXTINF:-1 tvg-chno="5" tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV7.png" group-title="央视",CCTV7
+#EXTINF:-1 tvg-chno="5" tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视",CCTV7
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EutDC7HLJc_gC0YdIDr7oig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPOHuulzlCcw92vP3vgYa4n%2CEND
-#EXTINF:-1 tvg-chno="6" tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV9.png" group-title="央视",CCTV9
+#EXTINF:-1 tvg-chno="6" tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视",CCTV9
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-chno="7" tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV12.png" group-title="央视",CCTV12
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2knJCFLHz_HqfBZXNGeA1A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIlZ5z7o_ym15iMooogSvj%2CEND
@@ -17,7 +17,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-chno="9" tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV14.png" group-title="央视",CCTV14
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_UgKg-_uoDiTW1MNHptPg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLabf3bHEXv4444iiOs_Px%2CEND
-#EXTINF:-1 tvg-chno="10" tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mrprince.github.io/iptv/logos/CCTV16.png" group-title="央视",CCTV16
+#EXTINF:-1 tvg-chno="10" tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="央视",CCTV16
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 #EXTINF:-1 tvg-chno="11" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://mrprince.github.io/iptv/logos/CGTN.png" group-title="央视",CGTN
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND
@@ -91,9 +91,9 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND
 #EXTINF:-1 tvg-chno="46" tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://mrprince.github.io/iptv/logos/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="地方",兵团卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESv-rH0nF41q6pxKZKeRnNA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN-56c_rnHTXQA4R-D0Dlau%2CEND
-#EXTINF:-1 tvg-chno="47" tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://mrprince.github.io/iptv/logos/CETV1.png" group-title="教育",CETV1
+#EXTINF:-1 tvg-chno="47" tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://tb.zbds.top/logo/CETV1.png" group-title="教育",CETV1
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
-#EXTINF:-1 tvg-chno="48" tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://mrprince.github.io/iptv/logos/CETV2.png" group-title="教育",CETV2
+#EXTINF:-1 tvg-chno="48" tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://tb.zbds.top/logo/CETV2.png" group-title="教育",CETV2
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 #EXTINF:-1 tvg-chno="49" tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://mrprince.github.io/iptv/logos/CETV4.png" group-title="教育",CETV4
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
